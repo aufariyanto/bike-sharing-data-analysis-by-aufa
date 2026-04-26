@@ -124,6 +124,6 @@ ax.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90, colors=['#ff9999'
 ax.axis('equal') 
 st.pyplot(fig)
 
-st.caption('Copyright (c) 2024 - Bike Sharing Analysis')
+st.caption('Copyright (c) 2026 - Bike Sharing Analysis Dashboard by Aufa')
 
 
