@@ -34,7 +34,7 @@ max_date = all_df["dteday"].max().date()
 # SIDEBAR
 # ==========================================
 with st.sidebar:
-st.markdown("<br>" * 3, unsafe_allow_html=True)   
+    st.markdown("<br>" * 3, unsafe_allow_html=True)   
     # Filter Rentang Waktu (Terkunci di 2011-2012)
     st.header("📅 Filter Rentang Waktu")
     
